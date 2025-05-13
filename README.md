@@ -1,3 +1,3 @@
 # Project3.1
 
-![Ana Ekran](/home.png)
+![Ana Ekran](/img/home.png)
